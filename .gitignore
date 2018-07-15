@@ -1,0 +1,5 @@
+# Input and output files.
+*.txt
+*.csv
+*.xls
+*.xlsx
